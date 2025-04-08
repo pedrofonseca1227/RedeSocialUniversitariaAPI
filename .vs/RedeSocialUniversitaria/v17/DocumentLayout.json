@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\redesocialuniversitaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:redesocialuniversitaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\controllers\\postagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:controllers\\postagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\infrastructure\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:infrastructure\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\domain\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:domain\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\domain\\entities\\postagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:domain\\entities\\postagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\domain\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:domain\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\domain\\interfaces\\ipostagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:domain\\interfaces\\ipostagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\infrastructure\\repositories\\postagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:infrastructure\\repositories\\postagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|c:\\users\\henrr\\source\\repos\\redesocialuniversitaria\\infrastructure\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD56759A-9618-419A-A9EB-7BA02B00C64A}|RedeSocialUniversitaria.csproj|solutionrelative:infrastructure\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:20:04.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostagemController.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Controllers\\PostagemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostagemController.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Controllers\\PostagemController.cs",
+              "RelativeToolTip": "Controllers\\PostagemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:19:27.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:48:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:03:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T19:45:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedeSocialUniversitaria.csproj",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\RedeSocialUniversitaria.csproj",
+              "RelativeDocumentMoniker": "RedeSocialUniversitaria.csproj",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\RedeSocialUniversitaria.csproj",
+              "RelativeToolTip": "RedeSocialUniversitaria.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T20:17:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Configuration\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Configuration\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:43:07.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Entities\\Evento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Evento.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Entities\\Evento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Evento.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:27:51.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:26:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Postagem.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Entities\\Postagem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Postagem.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Entities\\Postagem.cs",
+              "RelativeToolTip": "Domain\\Entities\\Postagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:27:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Interfaces\\IEventoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEventoRepository.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Interfaces\\IEventoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:30:07.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:28:47.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPostagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Interfaces\\IPostagemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPostagemRepository.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Domain\\Interfaces\\IPostagemRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPostagemRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:29:13.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Repositories\\PostagemRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PostagemRepository.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Repositories\\PostagemRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PostagemRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:33:10.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:18:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:30:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Repositories\\EventoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EventoRepository.cs",
+              "ToolTip": "C:\\Users\\henrr\\source\\repos\\RedeSocialUniversitaria\\Infrastructure\\Repositories\\EventoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EventoRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:33:56.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
